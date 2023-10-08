@@ -1,8 +1,6 @@
 function Home() {
   return (
-    <h1>
-      Olá, Me chamo Matheus e aqui está meu primeiro projeto teste!!! HaHaHa
-    </h1>
+    <h1>Olá, Me chamo Matheus e aqui está meu primeiro projeto teste !!</h1>
   );
 }
 
