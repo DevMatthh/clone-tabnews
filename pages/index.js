@@ -1,7 +1,5 @@
 function Home() {
-  return (
-    <h1>Olá, Me chamo Matheus e aqui está meu primeiro projeto teste !!!</h1>
-  );
+  return <h1>Olá, Me chamo Matheus e acabei de configurar meu domínio !!!</h1>;
 }
 
 export default Home;
